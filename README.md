@@ -62,4 +62,4 @@ This will open allure report in the browser.
 
 ### Manual test cases
 
-Manual test cases can be found at location - 
+Manual test cases can be found at location - https://github.com/ShwetaVinayak/IMMJ-test/tree/master/manual_tests
