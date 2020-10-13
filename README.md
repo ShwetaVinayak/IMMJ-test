@@ -35,8 +35,6 @@ Wait for successful installation of all dependencies packages.
 
 Once installation completed proceed for running tests.
 
-If any installation issues please see Troubleshoot section below.
-
 ### Running tests
 
 * Next, execute below command to start executing  atomated tests
