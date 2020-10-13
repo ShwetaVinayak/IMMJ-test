@@ -22,9 +22,10 @@ Below are the list of prerequisites required to run this project
 To run tests execute below commands in CLI
 
 * Open CLI
-* Navigate to downloaded location i.e computer-database-automation-test folder (Project parent folder)
+* Navigate to downloaded location i.e IMMJ-test folder (Project parent folder)
+Ex:
 ```
-cd C:\test\computer-database-automation-test
+cd C:\test\IMMJ-test
 ```
 * Execute below command to install dependencies
 ```
